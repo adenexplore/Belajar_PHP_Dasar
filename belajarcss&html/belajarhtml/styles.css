@@ -1,0 +1,17 @@
+h3{
+	color: chartreuse;
+	font-family: " sf ul display";
+
+}
+.bentukkotak{
+	width: 100px;
+	height: 100px;
+	background-color: cyam;
+
+}
+#buleud{
+	width: 100px;
+	height: 100px;
+	border-radius: 100px;
+	background-position: darkblue;
+}
